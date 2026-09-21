@@ -7,8 +7,8 @@
 -- 2. What types of encounters are most common?
 -- 3. How has encounter volume changed over time?
 -- 4. Who are the highest-utilization patients?
--- 5. What types of encounters do the top 20 utilizers have?
--- 6. How does the encounter mix of the top 20 compare
+-- 5. What types of encounters do the top 20 utilizers use the most?
+-- 6. How does the encounter type distribution of the top 20 compare
 --    with the overall patient population?
 -- ============================================================
 
